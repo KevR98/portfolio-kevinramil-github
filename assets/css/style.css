@@ -1,11 +1,10 @@
 body {
   background-color: black;
   color: white;
-  padding: 25%;
+  padding: 10%;
 }
 
-h1,
-h2 {
+h1 {
   text-align: center;
 }
 
